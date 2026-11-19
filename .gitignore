@@ -1,0 +1,42 @@
+# Compiled class files
+*.class
+
+# NetBeans build output
+build/
+dist/
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/private/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+._*
+
+# IDE / editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# NetBeans specific
+.nb-gradle/
+.nbproject/
+built-jar.properties
+.netbeans_automatic_build
+.netbeans_update_resources
+
+# Logs
+*.log
+
+# Java virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# JAR build output
+manifest.mf.bak
